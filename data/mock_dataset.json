@@ -1,0 +1,18 @@
+[
+  {
+    "user_id": "U001",
+    "game_id": "MemoryMaze",
+    "level": 1,
+    "accuracy": 90,
+    "reaction_time_avg_ms": 1123,
+    "timestamp": "2025-06-13T09:30:00"
+  },
+  {
+    "user_id": "U001",
+    "game_id": "LogicLocks",
+    "level": 2,
+    "accuracy": 80,
+    "reaction_time_avg_ms": 1500,
+    "timestamp": "2025-06-13T09:50:00"
+  }
+]
